@@ -1,5 +1,5 @@
 # nvm-switch.el
-Switch nvm node versions in emacs
+Switch nvm NodeJS versions in Emacs
 
 This adds the interactive command `nvm-switch-select-node-version`
 that selects a NodeJS version from `nvm` and update `exec-path' and `PATH` in
