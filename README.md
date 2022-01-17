@@ -5,6 +5,6 @@ This adds the interactive command `nvm-switch-select-node-version`
 that selects a NodeJS version from `nvm` and updates `exec-path` and `PATH` in
 `process-environment`.
 
-This should cause any spawned processes to use the select NodeJS version.
+This should cause any spawned processes to use the selected NodeJS version.
 
 The `.nvm` directory can be customized in `nvm-switch-directory`.
